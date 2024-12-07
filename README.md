@@ -1,5 +1,3 @@
- Here’s a sample README file for a single-page resume project:
-
 Single Page Resume
 
 This project is a single-page resume designed for professionals to showcase their skills, experience, and achievements in a concise and visually appealing format.
