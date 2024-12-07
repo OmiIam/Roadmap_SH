@@ -29,7 +29,7 @@ Installation
 
 	1.	Clone the repository:
 
-git clone https://github.com/your-username/single-page-resume.git  
+git clone (https://github.com/OmiIam/Roadmap_SH/tree/main)
 
 
 	2.	Navigate to the project directory:
