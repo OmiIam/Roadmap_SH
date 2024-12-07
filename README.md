@@ -1,23 +1,11 @@
 Single Page Resume
 
-This project is a single-page resume designed for professionals to showcase their skills, experience, and achievements in a concise and visually appealing format.
-
-Features
-
-	•	Clean and modern design
-	•	Fully responsive: Adapts to different screen sizes for mobile, tablet, and desktop
-	•	Customizable: Easy to personalize with your own information and style preferences
-	•	Print-friendly: Optimized for PDF export and printing
+This project is a single-page resume designed for professionals to showcase their skills, experience, and achievements in a super simple style.
 
 Technologies Used
 
 	•	HTML5: Structure and content
 CSS or Javascript not included.
- 
-
-Preview
-
-Insert a screenshot or a link to a live demo of the resume.
 
 Getting Started
 
@@ -29,7 +17,7 @@ Installation
 
 	1.	Clone the repository:
 
-git clone (https://github.com/OmiIam/Roadmap_SH/tree/main)
+git clone git@github.com:OmiIam/Roadmap_SH.git
 
 
 	2.	Navigate to the project directory:
